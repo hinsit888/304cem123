@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "610fbb7a038c8a87675ef61e"
+  },
+  "title": "Logitech G PRO",
+  "img": "assets/img/keyboard/keyboard2.png",
+  "desc": "The tournament-proven PRO gaming keyboard—now with advanced GX Clicky mechanical switches."
+},{
+  "_id": {
+    "$oid": "610fbc73038c8a87675ef620"
+  },
+  "title": "REDRAGON GAMING KEYBOARDS",
+  "img": "assets/img/keyboard/keyboard3.png",
+  "desc": "Redragon K599 wireless keyboard adopts innovative 2.4G anti-interference\n                                    technology, which reduces the input delay of the keyboard, whether it is office or\n                                    game,\n                                    it can be an efficient, stable, and fast response. Up to 60 hours battery life with\n                                    LED\n                                    off and 30 hours with LED on, This wireless keyboard can set up wirelessly with an\n                                    included dongle. Switch to a wired connection with a type-c cable."
+},{
+  "_id": {
+    "$oid": "610fbca3038c8a87675ef621"
+  },
+  "title": "RED KEYBOARD",
+  "img": "assets/img/keyboard/keyboard4.png",
+  "desc": "A keyboard is one of the primary input devices used with a computer.\n                                    Similar\n                                    to an electric typewriter, a keyboard is composed of buttons used to create letters,\n                                    numbers, and symbols, and perform additional functions. The following sections\n                                    provide\n                                    more in-depth information and answers to some of the frequently asked questions\n                                    about\n                                    the keyboard."
+},{
+  "_id": {
+    "$oid": "610fbcbe038c8a87675ef622"
+  },
+  "title": "BLUE KEYBOARD",
+  "img": "assets/img/keyboard/keyboard5.png",
+  "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque\n                                    assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam\n                                    velit\n                                    asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam."
+},{
+  "_id": {
+    "$oid": "610fbcd9038c8a87675ef623"
+  },
+  "title": "NORMAL KEYBOARD",
+  "img": "assets/img/keyboard/keyboard6.png",
+  "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque\n                                    assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam\n                                    velit\n                                    asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam."
+}]
